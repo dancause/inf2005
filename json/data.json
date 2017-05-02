@@ -1,0 +1,65 @@
+{
+	"avocats": [{
+			"id": 1,
+			"photo": "images/avocat/john.jpg",
+			"archor": "john",
+			"nom": "Smith",
+			"prenom": "john",
+			"telephone": "1-555-123-2345",
+			"couriel": "john@email.ca",
+			"bio": "adsfadsfdf",
+			"barreau": "1997",
+			"specialite": "allo,allo",
+			"formation": "école"
+		}, {
+			"id": 2,
+			"photo": "images/avocat/image.jpg",
+			"archor": "john",
+			"nom": "doe",
+			"prenom": "claude",
+			"telephone": "1-555-123-2345",
+			"couriel": "john@email.ca",
+			"bio": "adsfadsfdf",
+			"barreau": "1997",
+			"specialite": "allo,allo",
+			"formation": "école"
+		}, {
+			"id": 3,
+			"photo": "images/avocat/image.jpg",
+			"archor": "john",
+			"nom": "doe",
+			"prenom": "felix",
+			"telephone": "1-555-123-2345",
+			"couriel": "john@email.ca",
+			"bio": "adsfadsfdf",
+			"barreau": "1997",
+			"specialite": "allo,allo",
+			"formation": "école"
+		}, {
+			"id": 4,
+			"photo": "images/avocat/image.jpg",
+			"archor": "john",
+			"nom": "doe",
+			"prenom": "john",
+			"telephone": "1-555-123-2345",
+			"couriel": "john@email.ca",
+			"bio": "adsfadsfdf",
+			"barreau": "1997",
+			"specialite": "allo,allo",
+			"formation": "école"
+		}, {
+			"id": 5,
+			"photo": "images/avocat/image.jpg",
+			"archor": "john",
+			"nom": "doe",
+			"prenom": "monique",
+			"telephone": "1-555-123-2345",
+			"couriel": "john@email.ca",
+			"bio": "adsfadsfdf",
+			"barreau": "1997",
+			"specialite": "allo,allo",
+			"formation": "école"
+		}
+
+	]
+}

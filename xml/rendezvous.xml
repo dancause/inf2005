@@ -1,0 +1,38 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<liste>
+<rendezvous>
+	<avocat>John Smith</avocat>
+	<client>Benoit-Xavier Francoeur</client>
+	<lieux>Police</lieux>
+	<date>1 décembre 2016</date>
+	<heure>14h00</heure>	
+</rendezvous>
+<rendezvous>
+	<avocat>John Smith</avocat>
+	<client>Janin Dancause</client>
+	<lieux>Palais de jsutice</lieux>
+	<date>15 décembre 2016</date>
+	<heure>11h00</heure>	
+</rendezvous>
+<rendezvous>
+	<avocat>Monique Giroux</avocat>
+	<client>John Doe</client>
+	<lieux>Police</lieux>
+	<date>16 décembre 2016</date>
+	<heure>10h00</heure>	
+</rendezvous>
+<rendezvous>
+	<avocat>Gérard Tremblay</avocat>
+	<client>Ginette Savoie</client>
+	<lieux>Cour municipale</lieux>
+	<date>1 décembre 2016</date>
+	<heure>14h00</heure>	
+</rendezvous>
+<rendezvous>
+	<avocat>Annie Langlois</avocat>
+	<client>Benoit-Xavier Francoeur</client>
+	<lieux>Police</lieux>
+	<date>10 décembre 2016</date>
+	<heure>14h00</heure>	
+</rendezvous>
+</liste>	
